@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Operations>
+    <Add>
+        <Description>Joe;SUM;TURN10</Description>
+        <Value1>40</Value1>
+        <Value2>2</Value2>
+    </Add>
+</Operations>
